@@ -1,25 +1,25 @@
 {
     "id": 0,
-    "identifier": "acdaa0d0-c8ab-4d19-9eb5-2708f48a662c",
+    "identifier": "7f452b4a-9b0e-4ecd-a1ca-7714e406d244",
     "version": "1",
     "isEnabled": true,
     "isDebugMode": false,
     "name": "GitSyncTest",
-    "creator": "ec27c371-c9fd-4442-8c50-e6869b355f3e",
-    "modifiedBy": "Siemplify automation",
+    "creator": "20af9973-c016-439a-9814-a930fcad65de",
+    "modifiedBy": "20af9973-c016-439a-9814-a930fcad65de",
     "priority": 2,
     "description": "",
     "environments": [
-        "Default Environment"
+        "(A)"
     ],
     "categoryName": "Default",
     "categoryId": 1,
-    "originalPlaybookIdentifier": "acdaa0d0-c8ab-4d19-9eb5-2708f48a662c",
-    "creationTimeUnixTimeInMs": 1730294807539,
-    "modificationTimeUnixTimeInMs": 1730294807539,
+    "originalPlaybookIdentifier": "7f452b4a-9b0e-4ecd-a1ca-7714e406d244",
+    "creationTimeUnixTimeInMs": 1730295312694,
+    "modificationTimeUnixTimeInMs": 1730295312694,
     "trigger": {
         "id": 0,
-        "identifier": "865796db-a73d-4811-9995-716a97b6946e",
+        "identifier": "67857512-98bd-454f-ade9-41687e0f0255",
         "type": 8,
         "logicalOperator": 0,
         "conditions": [
@@ -33,8 +33,8 @@
     "steps": [
         {
             "parallelActions": [],
-            "identifier": "97c4b725-c71b-4336-8d41-b0aeaec75691",
-            "originalStepIdentifier": "97c4b725-c71b-4336-8d41-b0aeaec75691",
+            "identifier": "cf33cbe9-08a3-4b29-a7d8-1c3f3a9c5f2d",
+            "originalStepIdentifier": "cf33cbe9-08a3-4b29-a7d8-1c3f3a9c5f2d",
             "isAutomatic": true,
             "isSkippable": false,
             "instanceName": "Siemplify_Case Comment_1",
@@ -102,7 +102,7 @@
                 },
                 {
                     "name": "IntegrationInstance",
-                    "value": "30a40046-cbd9-4ea6-aa6c-c0f17f373516",
+                    "value": "66e949f4-6c10-4221-b011-90f65cbf2e3d",
                     "type": null,
                     "isMandatory": false,
                     "defaultValue": null,
@@ -146,7 +146,7 @@
                 },
                 {
                     "name": "ScriptParametersEntityFields",
-                    "value": "{\"Comment\":\"fff\"}",
+                    "value": "{\"Comment\":\"ggg\"}",
                     "type": null,
                     "isMandatory": false,
                     "defaultValue": null,
@@ -171,11 +171,11 @@
             "isDebugMockData": false,
             "debugData": null,
             "parentStepContainerId": null,
-            "workflowIdentifier": "acdaa0d0-c8ab-4d19-9eb5-2708f48a662c",
+            "workflowIdentifier": "7f452b4a-9b0e-4ecd-a1ca-7714e406d244",
             "isTouchedByAi": false,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1730294807539,
-            "modificationTimeUnixTimeInMs": 1730294807539,
+            "creationTimeUnixTimeInMs": 1730295312694,
+            "modificationTimeUnixTimeInMs": 1730295312694,
             "additionalProperties": {}
         }
     ],
