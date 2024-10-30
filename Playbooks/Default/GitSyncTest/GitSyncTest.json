@@ -1,13 +1,12 @@
 {
-    "hasRestrictedEnvironments": false,
     "id": 0,
-    "identifier": "58de930d-b815-40da-b413-e58a938d7e10",
+    "identifier": "acdaa0d0-c8ab-4d19-9eb5-2708f48a662c",
     "version": "1",
     "isEnabled": true,
     "isDebugMode": false,
     "name": "GitSyncTest",
     "creator": "ec27c371-c9fd-4442-8c50-e6869b355f3e",
-    "modifiedBy": "ec27c371-c9fd-4442-8c50-e6869b355f3e",
+    "modifiedBy": "Siemplify automation",
     "priority": 2,
     "description": "",
     "environments": [
@@ -15,12 +14,12 @@
     ],
     "categoryName": "Default",
     "categoryId": 1,
-    "originalPlaybookIdentifier": "58de930d-b815-40da-b413-e58a938d7e10",
-    "creationTimeUnixTimeInMs": 1730285141327,
-    "modificationTimeUnixTimeInMs": 1730285146130,
+    "originalPlaybookIdentifier": "acdaa0d0-c8ab-4d19-9eb5-2708f48a662c",
+    "creationTimeUnixTimeInMs": 1730294807539,
+    "modificationTimeUnixTimeInMs": 1730294807539,
     "trigger": {
         "id": 0,
-        "identifier": "04f260bb-dd78-4bb1-9d24-1adc8107ea42",
+        "identifier": "865796db-a73d-4811-9995-716a97b6946e",
         "type": 8,
         "logicalOperator": 0,
         "conditions": [
@@ -172,11 +171,11 @@
             "isDebugMockData": false,
             "debugData": null,
             "parentStepContainerId": null,
-            "workflowIdentifier": "58de930d-b815-40da-b413-e58a938d7e10",
+            "workflowIdentifier": "acdaa0d0-c8ab-4d19-9eb5-2708f48a662c",
             "isTouchedByAi": false,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1730285146052,
-            "modificationTimeUnixTimeInMs": 1730285146130,
+            "creationTimeUnixTimeInMs": 1730294807539,
+            "modificationTimeUnixTimeInMs": 1730294807539,
             "additionalProperties": {}
         }
     ],
