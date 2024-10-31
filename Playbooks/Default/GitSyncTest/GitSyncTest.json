@@ -6,7 +6,7 @@
     "isDebugMode": false,
     "name": "GitSyncTest",
     "creator": "Siemplify automation",
-    "modifiedBy": "20af9973-c016-439a-9814-a930fcad65de",
+    "modifiedBy": "Siemplify automation",
     "priority": 1,
     "description": "k,mnl,ml,",
     "environments": [
@@ -16,7 +16,7 @@
     "categoryId": 1,
     "originalPlaybookIdentifier": "e7e08a2b-cfd8-49af-a64a-da093a56c08c",
     "creationTimeUnixTimeInMs": 1730300682798,
-    "modificationTimeUnixTimeInMs": 1730371787904,
+    "modificationTimeUnixTimeInMs": 1730372160508,
     "trigger": {
         "id": 0,
         "identifier": "c40951df-f8fe-49a2-9954-d11142433fce",
@@ -174,8 +174,8 @@
             "workflowIdentifier": "b3af41e7-23e8-4e79-be2e-36e990477d3f",
             "isTouchedByAi": false,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1730371787904,
-            "modificationTimeUnixTimeInMs": 1730371787904,
+            "creationTimeUnixTimeInMs": 1730372160224,
+            "modificationTimeUnixTimeInMs": 1730372160508,
             "additionalProperties": {}
         }
     ],
