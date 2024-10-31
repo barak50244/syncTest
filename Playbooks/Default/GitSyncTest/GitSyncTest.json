@@ -1,25 +1,25 @@
 {
     "id": 0,
-    "identifier": "7f452b4a-9b0e-4ecd-a1ca-7714e406d244",
-    "version": "1",
+    "identifier": "b3af41e7-23e8-4e79-be2e-36e990477d3f",
+    "version": "0",
     "isEnabled": true,
     "isDebugMode": false,
     "name": "GitSyncTest",
-    "creator": "20af9973-c016-439a-9814-a930fcad65de",
+    "creator": "Siemplify automation",
     "modifiedBy": "20af9973-c016-439a-9814-a930fcad65de",
-    "priority": 2,
-    "description": "",
+    "priority": 1,
+    "description": "k,mnl,ml,",
     "environments": [
         "(A)"
     ],
     "categoryName": "Default",
     "categoryId": 1,
-    "originalPlaybookIdentifier": "7f452b4a-9b0e-4ecd-a1ca-7714e406d244",
-    "creationTimeUnixTimeInMs": 1730295312694,
-    "modificationTimeUnixTimeInMs": 1730295312694,
+    "originalPlaybookIdentifier": "e7e08a2b-cfd8-49af-a64a-da093a56c08c",
+    "creationTimeUnixTimeInMs": 1730300682798,
+    "modificationTimeUnixTimeInMs": 1730371787904,
     "trigger": {
         "id": 0,
-        "identifier": "67857512-98bd-454f-ade9-41687e0f0255",
+        "identifier": "c40951df-f8fe-49a2-9954-d11142433fce",
         "type": 8,
         "logicalOperator": 0,
         "conditions": [
@@ -33,7 +33,7 @@
     "steps": [
         {
             "parallelActions": [],
-            "identifier": "cf33cbe9-08a3-4b29-a7d8-1c3f3a9c5f2d",
+            "identifier": "0af4c43c-60a7-4cb2-b77c-23c9954f5535",
             "originalStepIdentifier": "cf33cbe9-08a3-4b29-a7d8-1c3f3a9c5f2d",
             "isAutomatic": true,
             "isSkippable": false,
@@ -146,7 +146,7 @@
                 },
                 {
                     "name": "ScriptParametersEntityFields",
-                    "value": "{\"Comment\":\"ggg\"}",
+                    "value": "{\"Comment\":\"omg!!\"}",
                     "type": null,
                     "isMandatory": false,
                     "defaultValue": null,
@@ -171,11 +171,11 @@
             "isDebugMockData": false,
             "debugData": null,
             "parentStepContainerId": null,
-            "workflowIdentifier": "7f452b4a-9b0e-4ecd-a1ca-7714e406d244",
+            "workflowIdentifier": "b3af41e7-23e8-4e79-be2e-36e990477d3f",
             "isTouchedByAi": false,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1730295312694,
-            "modificationTimeUnixTimeInMs": 1730295312694,
+            "creationTimeUnixTimeInMs": 1730371787904,
+            "modificationTimeUnixTimeInMs": 1730371787904,
             "additionalProperties": {}
         }
     ],

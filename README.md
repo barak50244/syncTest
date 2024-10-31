@@ -3,5 +3,5 @@
 ## Playbooks
 |Name|Description|
 |----|-----------|
-|GitSyncTest||
+|GitSyncTest|k,mnl,ml,|
 
